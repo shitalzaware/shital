@@ -1,0 +1,103 @@
+
+What is Maven – difference between maven clean and Test?
+How to disable cookies using Selenium
+Diff. Link text & partial Link text?
+
+1 scenario asked ,about timeline how will you manage 
+ Suppose you have to test a feature with 100 sets of data. How will you do this
+
+you need to test only the login module 10 times & on 11th time you have to do 
+login again to test some of the core features. How you will do 
+
+ How you use Jenkins in your project
+Note: They ask to write code in notepad and ask to run on online editor during interview. 
+They share ms teams lin
+
+1st catch has Exception classname, 2nd catch has child exception classname.
+Qn: If second exception is thrown in the try block, which catch block would be referred
+Runtime polymorphismP p = new C();
+p.display();
+P is parent class, C is child class, display method is present in both the parent and child 
+classes, which one would get executed
+
+Runtime polymorphismP p = new C();
+p.display();
+P is parent class, C is child class, display method is present in both the parent and child 
+classes, which one would get executed
+
+Plug-in to generate reports in mave
+
+. Can Static Method Be Overridde
+
+Lets say u have 1000 test for regression and 60% of testcases failed on the execution day.. 
+what will be your approach here?? How will u know why these test cases failed?? What you 
+will answer to your manager??
+
+Tell me the test case status pass or fail & which exception u will use??
+Scenario 1. in try block u gave correct user id and correct password and then catch block
+Scenario 2. In try block u gave correct user id and wrong password and then catch block
+
+6. How will u convert a already existing java project into gradle project.. what are the things 
+u need to write inside the build.gradle file?
+
+
+what is class loader ?? Have u used in ur framework?
+
+what is class loader ?? Have u used in ur framework?
+
+
+one question on scenario based where u need to verify whether the final ratings are 
+coming as average of all the ratings.. lets say there are 1000 of ratings in ‘n’ number of 
+pages.. how will u go to automate this test case??
+
+What will be your manual test case approach if you got a new module to test?
+
+) If you have a single option to choose by means of Severity and Priority what should be 
+your answer?
+
+Lets say u have 1000 test for regression and 60% of testcases failed on the execution day.. 
+what will be your approach here?? How will u know why these test cases failed?? What you 
+will answer to your manager??
+
+
+Tell me about different types of java exception
+Tell me the test case status pass or fail & which exception u will use??
+ Scenario 1. in try block u gave correct user id and correct password and then catch block
+Scenario 2. In try block u gave correct user id and wrong password and then catch block
+
+How will u convert a already existing java p
+
+
+What is difference between @FindBY and findB
+
+If you are required to make any changes to your selenium files in a maven project, how 
+can you achieve that?
+
+5 I have a method add(int,string,string,string);
+I am implementing this method, what is the optimised way to implement the method , can I 
+reduce the number of argument if yes how?
+
+
+SQL:
+1. Write query to select the count of total employee from one department out of so 
+many
+2. Write query to find the total count of employee in each department: i.e. department 
+wise employee count should be returned
+3. Difference between union and union all
+4. Two tables have one thing in common employee id: one table has following 
+columns i.e. employeeid, name, department, and second table has following columns: 
+employeeId, Project, Salary
+a. Find out the employees of project p1 and having salary over 10000 and less 
+than 30000
+
+tell me the ATLC life cycl
+
+Write a script to open the Firefox without using FirefoxDriver clas
+
+What is manual correlation? How do you handle it?
+
+what is future file??
+
+how many test case you have  exicuted  till yet??
+
+how many percent you have automated  tested your project

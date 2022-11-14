@@ -1,0 +1,45 @@
+[10:11 am, 13/11/2022] Velocity Vijay Kumar: 1. Annotations in testng
+2. 2. Difference between @BeforeTest and @BeforeMethod
+3. 3. Soft assert vs Hard Assert
+4. 4. How to pass parameters to test methods
+5. 5. Use of data provider
+6. 6. Use of invocationCount, enabled, priority, dependsOnMethod, dependsOnGroups, alwaysRun, dataProvider, groups, timeout, expectedExceptions, singleThreaded, etc
+7. 7. testNg xml structure
+8. 8. How to group testcases
+9. 9. Use of IRetryAnalyzer class
+10. 10. How to run failed testcases
+11. 11. How to perform parallel testing.
+12. 12. What level user can perform parallel testing
+13. 13. Use of ISuiteListener Methods
+14. 14. Use of TestListenerAdaptor methods
+15. 15. How to ignore packages and classes.
+16. 16. Can user provide negative value for setting priority.
+[10:12 am, 13/11/2022] Velocity Vijay Kumar: 16.How much time is required to write a Test case?
+17.How you communicate with Develop
+16.How much time is required to write a Test case?
+17.How you communicate with Developers to resolve issues?
+18. What are the various tools you have used in ur current project?
+19. Is it possible to achieve 100% testing coverage? How would you ensure it?
+
+[10:13 am, 13/11/2022] Velocity Vijay Kumar: 12.List all challenges faced in your project?
+13.When do you start writing test cases/test scripts?
+14.How many test cases have you designed till yet? How many do you write in a day? or How many Test cases did you write for last project?
+15. What are the key challenges of software testing that you faced in your career or in current project??
+[10:13 am, 13/11/2022] Velocity Vijay Kumar: 1.where you use database testing in your project.
+2.How u do api testing in ur project
+3.What is your work in the project , what you tested til yet?
+4.What bug did you find in your last project which contain high priority n low severity or vice versa?
+5.how many bugs did you find in your last project? or How many defects did you detect in your last project?
+6.what was your last hot fix bug?
+7.Can you explain any one model of your project or ur project?
+8.What is your Roles and Responsibility in current project?
+9.which framework currenlty ur using in ur project or can you explain your frame work?
+10.What type of testing you have performed in current project?
+11.How many test cases you have automated in ur current project?
+[10:14 am, 13/11/2022] Velocity Vijay Kumar: 1.where you use database testing in your project.
+2.How u do api testing in ur project
+3.What is your work in the project , what you tested til yet?
+4.What bug did you find in your last project which contain high priority n low severity or vice versa?
+5.how many bugs did you find in your last project? or How many defects did you detect in your last project?
+6.what was your last hot fix bug?
+7.Can you explain any one model of your project or ur project?
